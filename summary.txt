@@ -1,0 +1,120 @@
+  1. BIOGUIDE_ID
+	<class 'str'>
+	Nulls: True
+	Values: B001245, J000126
+  2. OFFICE
+	<class 'str'>
+	Nulls: False
+	Unique values: 7
+	5 most frequent values:
+		HON. MADELEINE Z. BORDALLO:	2
+		DEMOCRATIC CAUCUS:	2
+		HON. EDDIE BERNICE JOHNSON:	2
+		TRANSPORTATION-INFRASTRUCTURE:	1
+		CHIEF ADMIN OFCR OF THE HOUSE:	1
+	Max length: 29
+  3. QUARTER
+	<class 'str'>
+	Nulls: False
+	Values: 2017Q1
+  4. PROGRAM
+	<class 'str'>
+	Nulls: False
+	Values: OFFICIAL EXPENSES OF MEMBERS, GENERAL EXPENDITURES, NON - PERSONNEL, ADMIN AND OPS
+  5. CATEGORY
+	<class 'str'>
+	Nulls: False
+	Values: OTHER SERVICES
+  6. DATE
+	<class 'datetime.date'>
+	Nulls: False
+	Min: 2017-01-05
+	Max: 2017-03-30
+	Unique values: 8
+	5 most frequent values:
+		2017-01-19:	2
+		2017-02-17:	2
+		2017-03-30:	1
+		2017-03-13:	1
+		2017-03-21:	1
+  7. TRANSCODE
+	<class 'str'>
+	Nulls: False
+	Values: AP
+  8. RECORDID
+	<class 'str'>
+	Nulls: False
+	Unique values: 8
+	5 most frequent values:
+		904174:	2
+		900647:	2
+		912200:	1
+		E0494285:	1
+		E0469225:	1
+	Max length: 8
+  9. PAYEE
+	<class 'str'>
+	Nulls: False
+	Unique values: 7
+	5 most frequent values:
+		CITI PCARD-CLASSICLEANERS-LONGWOR:	3
+		SUNSHINE DRY CLEANERS INC:	2
+		HERRMANN MATTHEW:	1
+		CITIBANK GOV CARD SERVICE:	1
+		RAMSEY JOHN D.:	1
+	Max length: 33
+ 10. START DATE
+	<class 'datetime.date'>
+	Nulls: False
+	Min: 2016-10-28
+	Max: 2017-02-28
+	Unique values: 7
+	5 most frequent values:
+		2016-12-13:	2
+		2017-01-03:	2
+		2016-11-29:	2
+		2017-02-12:	1
+		2017-02-28:	1
+ 11. END DATE
+	<class 'datetime.date'>
+	Nulls: False
+	Min: 2016-11-05
+	Max: 2017-02-28
+	Unique values: 6
+	5 most frequent values:
+		2016-12-13:	2
+		2016-12-28:	2
+		2017-02-28:	2
+		2017-01-28:	2
+		2017-02-12:	1
+ 12. PURPOSE
+	<class 'str'>
+	Nulls: False
+	Values: LAUNDRY SERVICES
+ 13. AMOUNT
+	<class 'float'>
+	Nulls: False
+	Min: 11.0
+	Max: 293.93
+	Sum: 1232.8700000000001
+	Mean: 123.287
+	Median: 95.83
+	Standard Deviation: 92.12667768350273
+	Unique values: 10
+ 14. YEAR
+	<class 'int'>
+	Nulls: False
+	Values: 2016, 2017
+ 15. RECIP (orig.)
+	<class 'str'>
+	Nulls: False
+	Unique values: 7
+	5 most frequent values:
+		CITI PCARD-CLASSICLEANERS-LONGWOR:	3
+		SUNSHINE DRY CLEANERS INC:	2
+		HERRMANN MATTHEW:	1
+		CITIBANK GOV CARD SERVICE:	1
+		RAMSEY JOHN D.:	1
+	Max length: 33
+
+Row count: 10

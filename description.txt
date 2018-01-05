@@ -1,0 +1,2 @@
+This spreadsheet now contains only those line items which list laundry in the expense purpose column. Thus, it describes 2017 Quarter 1 Expenditures for laundry-related purchases.
+The sum of laundry services expensed by all individuals listed in the dataset totals 1232.87
